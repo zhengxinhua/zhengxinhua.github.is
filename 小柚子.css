@@ -1,0 +1,242 @@
+body { 
+	margin: 0px;
+padding: 0px; 
+}
+
+.aa{
+	height:1000%;
+		  width: 100%;
+		  position: absolute;
+		  overflow: hidden;
+	
+}
+
+.bb{
+    height: 10%;
+	  width: 100%;
+	  background: url(1.JPG);
+	  background-size: cover;
+	  position: absolute;
+	  overflow: hidden;
+	    
+}
+.bb1{
+	text-align: center;
+	padding-top: 225px;
+	font-size: 50px;
+	color:pink;
+	font-family: "楷体" ;
+	
+}
+.bb2{text-align: right;
+	  padding-top: 210px;
+	  font-size: 20px;
+	  color: white;
+}
+
+.cc{
+height:10%;
+	  width: 100%;
+	  background: url(2.jpg) no-repeat;
+	  background-size: cover;
+	  position: absolute;
+	  top:10%;
+	  overflow: hidden;
+
+}
+.cc1{
+	float: left;
+	margin: 0;
+	text-align: left;
+	width:400px;
+	padding-top: 10px;
+	font-size: 37px;
+	color:lightskyblue;
+	font-family: "YouYuan";
+}
+.cc2{
+	float: left;
+	margin-left: 1020px;
+	padding-top: 80px;
+	width: 40px;
+	line-height: 56px;
+	font-size:65px;
+	color:lavender;
+	word-wrap: break-word;
+}
+.cc3{
+	line-height: 1px;
+	font-size:90px;
+	color: white;
+	font-family:stxingkai;
+	
+}
+
+
+
+.dd{
+height:10%;
+	  width: 100%;
+	  background: url(3.jpg) no-repeat;
+	  background-size: cover;
+	  position: absolute;
+	  top:20%;
+	  overflow: hidden;
+
+}
+.dd1{
+	float: left;
+	margin: 0;
+	text-align: left;
+	padding-top: 10px;
+	font-size: 30px;
+	color:white;
+	font-family: "YouYuan";
+}
+.dd2{
+	font-size: 15px;
+}
+
+.ee{
+	height:70%;
+	width: 100%;
+	background-color: floralwhite;
+	  position: absolute;
+	  top:30%;
+	  overflow: hidden;
+}
+.ee1{
+
+	font-size: 60px;
+	 position: absolute;
+	 top: 20px;
+	 left: 800px;
+	font-family: "微软雅黑";
+	color: gray;
+}
+.ee2{
+
+	position: absolute;
+	top: 150px;
+	left: 200px;
+	font-size: 20px;
+	font-family: "黑体";
+}
+.ee3{
+
+	position: absolute;
+	top: 300px;
+	left: 800px;
+
+	font-size: 20px;
+	font-family: "黑体";
+}
+.ee4{
+
+	position: absolute;
+	left: 125px;
+	top:850px;
+	font-size: 20px;
+	font-family: "黑体";
+}
+.ee5{
+
+	position: absolute;
+	left: 900px;
+	top:1775px;
+	font-size: 20px;
+	font-family: "黑体";
+}
+.ee6{
+	position: absolute;
+	left: 100px;
+	top:1900px;
+	font-size: 20px;
+	font-family: "黑体";
+}
+.ee7{
+	position: absolute;
+	left: 900px;
+	top:2200px;
+	font-size: 20px;
+	font-family: "黑体";
+}
+.ee8{
+	position: absolute;
+	left: 100px;
+	top:2500px;
+	font-size: 20px;
+	font-family: "黑体";
+}
+.ee9{
+	position: absolute;
+	left: 900px;
+	top:2625px;
+	font-size: 20px;
+	font-family: "黑体";
+}
+.ee10{
+	position: absolute;
+	left: 0px;
+	top:3075px;
+	font-size: 20px;
+	font-family: "黑体";
+}
+.ee11{
+	position: absolute;
+	left: 800px;
+	top:3075px;
+	font-size: 20px;
+	font-family: "黑体";
+}
+.ee12{
+	position: absolute;
+	left: 275px;
+	top:3675px;
+	font-size: 20px;
+	font-family: "黑体";
+}
+.ee13{
+	position: absolute;
+	left: 478.5px;
+	top:4425px;
+	font-size: 20px;
+	font-family: "黑体";
+}
+.ee14{
+	position: absolute;
+	left: 1350px;
+	top:3675px;
+	font-size: 70px;
+	font-family: stxingkai;
+}
+.ee15{
+	position: absolute;
+	left: 100px;
+	top:3750px;
+	font-size: 70px;
+	font-family: stxingkai;
+}
+.ee16{
+	position: absolute;
+	left: 1250px;
+	top:4400px;
+	font-size: 100px;
+	font-family: stxingkai;
+}
+.ee17{
+	position: absolute;
+	left: 200px;
+	top:4400px;
+	font-size: 100px;
+	font-family: stxingkai;
+}
+.ee18{
+	position: absolute;
+	left: 650px;
+	top:5180px;
+	font-size: 15px;
+	font-family: stxinwei;
+	color: lavender;
+}
+和你在一起真开心
